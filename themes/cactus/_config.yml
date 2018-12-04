@@ -16,8 +16,7 @@ direction: ltr
 nav:
   home: /
   about: /om/
-  articles: /archives/
-  projects: projects_url
+  memes: /memes/
 
 
 # Links to your social media accounts.

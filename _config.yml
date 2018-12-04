@@ -10,7 +10,8 @@ keywords:
 author: Sappar'18
 language: sv
 timezone:
-
+#google tracking :D
+google_analytics: UA-130431503-1
 #Imgur embedding
 imgur:
   clientId: 973cc7524dd1242

@@ -11,6 +11,9 @@ author: Sappar'18
 language: sv
 timezone:
 
+#Imgur embedding
+imgur:
+  clientId: 973cc7524dd1242
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
